@@ -9,7 +9,7 @@
     <dimen name="navigation_drawer_width">240dp</dimen>
 
 
-    <dimen name="image_square_width">80dp</dimen>
+    <dimen name="image_square_width">90dp</dimen>
     <dimen name="image_single_width">200dp</dimen>
     <dimen name="image_single_min_width">80dp</dimen>
 
